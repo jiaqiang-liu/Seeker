@@ -1,0 +1,167 @@
+http://news.nwpu.edu.cn/info/1010/49410.htm
+【学术报告】关于“动能名家讲堂”之堪萨斯大学王志坚教授学术报告会的通知-视窗-西北工业大学新闻网
+2017
+06
+09
+0.0
+﻿
+【学术报告】关于“动能名家讲堂”之堪萨斯大学王志坚教授学术报告会的通知-视窗-西北工业大学新闻网
+首  页
+工大要闻
+校园动态
+媒体工大
+通知公告
+摄影报道
+西工大报
+网络视频系统
+党委宣传部
+宣传教育
+高教视点
+科技前沿
+网观天下
+学术信息
+电子读报系统
+校园风光
+学术信息
+当前位置:
+首    页
+>>
+新闻中心
+>>
+学术信息
+>>
+正文
+
+
+【学术报告】关于“动能名家讲堂”之堪萨斯大学王志坚教授学术报告会的通知
+作者：
+来源：动力与能源学院
+发布时间：
+2017年05月18日 14:06
+
+
+全校师生：
+
+
+我校定于2017年5月24日举办“动能名家讲堂”—— 堪萨斯大学王志坚教授报告会，现将有关事项通知如下：
+
+
+1.
+报告会简介
+
+
+报告人：堪萨斯大学王志坚教授
+
+
+Speaker: Prof. Z.J. Wang
+
+
+主持人：严红 教授
+
+
+Host: Prof. Yan Hong
+
+
+时间：2017年5月24日（星期三） 上午10：30-12：00
+
+
+Time: May 24, 2017, 10：30am-12:00am
+
+
+地点： 动力与能源学院大楼225会议室
+
+
+Place: Conference room 225, School of Power
+Energy
+
+
+主题：计算流体动力学的最新发展趋势
+
+
+Topic: Some recent trends in computational fluid dynamics
+
+
+
+
+内容简介：
+
+
+计算流体动力学在军用和民用飞机的设计中发挥了重要作用。在这次报告中，我们回顾了CFD中的最新发展，并尝试对于一些近期的发展趋势提出我个人的观点。特别是以下几种研究课题的进展会对计算流体力学产生重要的影响：1.高阶方法；2.高阶网格生成；3.大涡模拟；4.基于网格适应性的方法；5.超大规模并行计算的标量算法；6.大数据及设计
+
+
+Computational fluid dynamics has played a major role in the design of military and civilian aircraft. In this talk, we review the state of the art in CFD, and attempt to offer a personal perspective on some recent trends. In particular, we believe progress in the following research topics will have a major impact: 1.High order methods; 2.High-order mesh generation; 3.Large eddy simulation; 4.Solution based mesh adaptations; 5.Scalar algorithms on extreme-scale parallel computers; 6.Large data and designs.
+
+
+2.
+欢迎各学院师生前来听报告。报告会期间请关闭手机或将手机调至静音模式。
+
+
+动力与能源学院
+
+
+2017年5月18日
+
+
+报告人简介
+
+
+王志坚, 美国堪萨斯大学航空工程系教授。1990年于英国Glasgow大学航空工程系获博士学位，之后他在Glasgow和Oxford进行了博士后研究，之后1991年他在Huntsville (Alabama)的一家CFD研究公司担任研究工程师,之后成为技术研究员。王志坚教授于2000年担任美国密歇根州立大学机械工程系副教授，2005年加入爱荷华州立大学航空工程系，2012年加入堪萨斯大学航空工程系。研究领域包括用于求解N-S方程的适应性高阶方法，针对结构化、非结构化、嵌套以及适应性笛卡尔网格的算法及求解器开发，计算气动声学，计算电磁学，针对转捩及仿生学流动问题的大涡模拟，CPU及GPU集群高性能计算，几何建模与网格生成等。他于2008年被格拉斯哥大学授予工程科学博士学位，并担任AIAA研究员。
+
+
+
+
+Z.J. Wang, Spahr Professor and Chair of Aerospace Engineering at the University of Kansas (KU), received his Ph.D. in Aerospace Engineering from the University of Glasgow in 1990. Then he conducted post-doctoral research in Glasgow and Oxford before joining CFD Research Corporation in Huntsville, Alabama in 1991 as a Research Engineer, and later becoming a Technical Fellow. In 2000, he joined the faculty of Michigan State University as an Associate Professor of Mechanical Engineering. In 2005 he returned to Aerospace Engineering at ISU. In 2012 he joined KU’s Aerospace Engineering Department. His research areas include adaptive high-order methods for the Navier-Stokes equations, algorithm and flow solver development for structured and unstructured, overset and adaptive Cartesian grids, computational aeroacoustics and electromagnetics, large eddy simulation of transitional and bio-inspired flow problems, high performance computing on CPU and GPU clusters, geometry modeling and grid generation. He was awarded the degree of Doctor of Science in Engineering by the University of Glasgow in 2008. He is an AIAA Fellow.
+
+
+上一条：
+【学术报告】关于“动能名家讲堂”之新泽西州立大学Doyle D. Knight教授学术报告会的通知
+下一条：
+【学术报告】研究生灵犀学术殿堂第160期之黄勇平报告会通知
+
+
+【
+关闭
+】
+主编推荐
+西北工业大学2015年“先进飞行...
+[研讨会]第七届国际博士生论坛...
+2015年“国家建设高水平大学公...
+西北工业大学基础研究学会第一...
+新闻排行
+·
+中国航发集团副总经理陈少洋一行...
+·
+西工大喜获2017年新加坡水下AUV国...
+·
+六位专家学者受聘为西工大材料科...
+·
+航海学院博士生王谋入选《人民日...
+·
+西工大举办2017年春季大型招聘会
+·
+西北工业大学深圳研究院入围国家...
+·
+和祖国一起走向深蓝
+·
+学校召开2017年招生宣传工作动员...
+友情链接
+西北工业大学
+电子邮件系统
+科学网
+三航四方BBS
+翱翔门户
+陕西大学生在线
+中国政府网
+工业和信息化部
+教育部
+新华网
+人民网
+中国大学生在线
+西安网
+
+
+西北工业大学党委宣传部
+@ 版权所有 Copyright 2006-2012
+免责声明
+投稿指南
+总访问量：

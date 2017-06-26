@@ -1,0 +1,71 @@
+$def with (search_text,search_result,lister)
+
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <meta http-equiv=”Content-Type” content=”text/html; charset=gbk″ />
+        <title>Seeker</title>
+        <style>
+            span{color:blue;}
+            strong{color:red;}
+            #recid{
+                width:300px;
+                height:25px;
+            }
+            #subid{
+                width:100px;
+                height:32px;
+            }
+            .box{width:800px;height:120px;}
+            .null_er{width:143px;height:120px;}
+            a:link { text-decoration: underline;}
+            .text_main {font-size:13px;}
+            .green_linker {font-size:10px;color:green;}
+            .footer{font-size:13px;position:absolute;bottom:0;left:40%;}
+            .resultstate{
+                font-size:10px;
+                font-color:rgb(243,255,255);
+                margin-left: 145px;
+                margin-bottom: 10px
+            }
+        </style>
+    </head>
+    <body>
+
+            <a href="./" ><img src="../static/seeker.png" width="140" height="35" title="Seeker" style="float:left;"></a>
+
+            <form method="post" action="">
+                <input type="text" name="title" id="recid" value=$:search_text />
+                <input type="submit" value="Seeker！" id="subid"/>
+            </form>
+
+            <a href="#" style="float:right;"><button>#</button></a>
+
+            <hr/>
+
+           <div class="resultstate">
+               $:search_result
+           </div>
+
+                $for obj in lister:
+                    <div class="null_er" style="float:left;">
+
+                    </div>
+                    <div class="box">
+                    <a href= $:obj.get_url_ori() target="_blank"> $:obj.get_title() </a>
+                        <p class="text_main">
+                            $:obj.get_text()
+                        </p>
+                        <p class="green_linker">
+                            $:obj.get_url_ori()
+                        </p>
+                    </div>
+                <div style="text-align:center;border;">
+                <!--
+                <p class="footer">
+                  More information on <a href="#"  target="_blank"> Github </a>©2017 All Rights Reserved
+                </p>
+                -->
+                </div>
+    </body>
+</html>
